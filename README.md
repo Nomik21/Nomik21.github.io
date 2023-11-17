@@ -7,6 +7,6 @@ My passion is programming, especially Python and JavaScript. I currently work on
 
                    EDUCATION 
 
-|[National Technical University of Athens (NTUA) ](https://www.survey.ntua.gr/el/)
-[|Army Officer in Hellenic Military Geographical Service (HMGS)](https://www.gys.gr/) 
-[|Hellenic Army Academy (HAA)](https://sse.army.gr/)
+[National Technical University of Athens (NTUA) ](https://www.survey.ntua.gr/el/)
+[Army Officer in Hellenic Military Geographical Service (HMGS)](https://www.gys.gr/) 
+[Hellenic Army Academy (HAA)](https://sse.army.gr/)
