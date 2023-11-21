@@ -9,8 +9,8 @@ My passion is programming, especially Python and JavaScript. I currently work on
 
 ## Education Background 
 
-[National Technical University of Athens (NTUA)](https://www.survey.ntua.gr/el/)
-[Army Officer in Hellenic Military Geographical Service (HMGS)](https://www.gys.gr/) 
-[Hellenic Army Academy (HAA)](https://sse.army.gr/)
+-[National Technical University of Athens (NTUA)](https://www.survey.ntua.gr/el/)
+-[Army Officer in Hellenic Military Geographical Service (HMGS)](https://www.gys.gr/) 
+-[Hellenic Army Academy (HAA)](https://sse.army.gr/)
 
-![](https://media.licdn.com/dms/image/C4D03AQHFRo0R2Tj9RQ/profile-displayphoto-shrink_400_400/0/1619639893945?e=1705536000&v=beta&t=LNgi4Xj3FLLqlfXBZvNvwITCWtWKGlw8FPGSBKopIEk)
+
